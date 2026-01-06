@@ -1,1 +1,3 @@
-# quizmaster-platform-303096
+# Project Repository
+
+This is the initial README file for the project.
